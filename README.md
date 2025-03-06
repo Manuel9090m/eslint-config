@@ -10,6 +10,6 @@ yarn add git+https://github.com/Manuel9090m/eslint
 Then create an `.eslintrc.json` like (can also be a yaml or js):
 ``` json
 {
-	"extends": "@braylerdarkvip"
+	"extends": "@team-code-titans"
 }
 ```
