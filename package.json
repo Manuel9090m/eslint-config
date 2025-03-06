@@ -1,5 +1,5 @@
 {
-	"name": "@adiwajshing/eslint-config",
+	"name": "@team-code-titans/eslint-config",
 	"version": "1.0.0",
 	"main": "index.json",
 	"dependencies": {
